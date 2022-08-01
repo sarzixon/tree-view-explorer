@@ -1,0 +1,11 @@
+{
+  "name": "tree-view-explorer",
+  "version": "1.0.0",
+  "description": "simple vanilla js tree view data explorer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarzixon",
+  "license": "ISC"
+}
